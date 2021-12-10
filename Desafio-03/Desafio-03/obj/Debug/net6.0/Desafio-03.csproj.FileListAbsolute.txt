@@ -1,0 +1,15 @@
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\bin\Debug\net6.0\Desafio-03.exe
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\bin\Debug\net6.0\Desafio-03.deps.json
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\bin\Debug\net6.0\Desafio-03.runtimeconfig.json
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\bin\Debug\net6.0\Desafio-03.dll
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\bin\Debug\net6.0\ref\Desafio-03.dll
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\bin\Debug\net6.0\Desafio-03.pdb
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.csproj.AssemblyReference.cache
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.AssemblyInfoInputs.cache
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.AssemblyInfo.cs
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.csproj.CoreCompileInputs.cache
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.dll
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\ref\Desafio-03.dll
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.pdb
+E:\Projetos\Codeless\Desafio_03\Desafio_03\Desafio-03\Desafio-03\obj\Debug\net6.0\Desafio-03.genruntimeconfig.cache
